@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL','http://localhost/bengkel/public');
+define('BASEURL','http://localhost/bengkel_proj/public');
 
 //DB
 define('DB_HOST','localhost');
